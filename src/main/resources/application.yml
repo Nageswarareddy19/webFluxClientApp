@@ -1,0 +1,8 @@
+server:
+  port: 8181
+#Application Configuration properties
+
+web-client:
+  messages:
+    eventUrl: http://localhost:8080/customerEvent
+    eventsUrl: http://localhost:8080/customerEvents
